@@ -1,0 +1,4 @@
+origine;destination;poid
+A;B;2
+C;D;1
+D;A;4

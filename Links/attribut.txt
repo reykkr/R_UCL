@@ -1,0 +1,5 @@
+Id;taille;Type
+A;1;True
+B;2;True
+C;3;False
+D;4;False
